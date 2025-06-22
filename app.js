@@ -15,7 +15,7 @@ alert("You have visited this site "  + num + " times");
 // birth year. Show the following message in your browser:
  let birthYear = 1990;
 
- document.writeln("<h2> My Birthy Year is ", birthYear , " </h2> <br>");
+ document.writeln("<h2> My Birthy Year is ", birthYear , " </h2>");
  document.writeln("<h2> Data type of my declared variable is number.</h2>");
 
 //  4. A visitor visits an online clothing store
